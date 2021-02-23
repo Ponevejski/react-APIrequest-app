@@ -1,0 +1,13 @@
+.error-message{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   color: red;
+   font-size: 175%;
+}
+.error-message img{
+   width: 100%;
+}
+.error-message span{
+   text-align: center;
+}
